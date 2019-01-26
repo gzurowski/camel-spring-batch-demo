@@ -1,0 +1,8 @@
+spring:
+  batch:
+    job:
+      enabled: false
+
+camel:
+  springboot:
+    main-run-controller: true
